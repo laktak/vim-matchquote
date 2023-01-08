@@ -17,6 +17,9 @@ The plugin also adds a text object for inner pipe (`i|`) and around pipe (`a|`).
 Please note the matchit plugin (if you use it) should be loaded before this plugin.
 
 
+**This fork allows the plugin to work with `let g:no_plugin_maps = 1`.**
+
+
 ## Licence
 
 Copyright Andrew Stewart.  Distributed under the MIT licence.
